@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "environments": {
+    "production": {
+      "buildCommand": "npm install",
+      "startCommand": "node your-bot-script.js"
+    }
+  }
+}
