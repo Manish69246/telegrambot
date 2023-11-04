@@ -3,7 +3,7 @@
   "environments": {
     "production": {
       "buildCommand": "npm install",
-      "startCommand": "node your-app.js"
+      "startCommand": "node your-bot-script.js"
     }
   }
 }
